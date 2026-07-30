@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+output/*
+!output/sample.fasta
+!output/rcsb_pdb_9BAJ.fasta

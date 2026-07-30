@@ -127,6 +127,6 @@ This project is released under the MIT License.
 
 ## 👩‍💻 Author
 
-**Areej Melfe**
+**Areej Al-Mohammadi**
 
 Master's Student in Biochemistry | Bioinformatics
