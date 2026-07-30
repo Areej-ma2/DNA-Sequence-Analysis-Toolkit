@@ -2,6 +2,8 @@
 
 An interactive bioinformatics application built with **Python** and **Streamlit** for analyzing DNA sequences from FASTA files. The toolkit provides essential sequence analysis features through an easy-to-use web interface, making biological sequence exploration more accessible.
 
+🔗 **Live app:** [dna-sequence-analysis-toolkit.streamlit.app](https://dna-sequence-analysis-toolkit-9myekh8etw3vmfmpydnxu7.streamlit.app/)
+
 ---
 
 ## ✨ Features
